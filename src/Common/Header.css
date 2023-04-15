@@ -1,0 +1,12 @@
+.header {
+    width: 100%;
+    position: relative;
+    text-align: center;
+    background-color: cadetblue;
+    padding: 10px;
+}
+
+.header h3 {
+    font-size: 24px;
+    color: white;
+}
